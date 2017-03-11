@@ -1,3 +1,3 @@
 # FactionsPro
 
-by Tethered, modified by Awzaw
+This plugin was remodified by PianoRalh04, and was re-modified for his server.
